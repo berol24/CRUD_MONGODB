@@ -1,0 +1,9 @@
+npm i express mongoose express-session ejs multer dotenv
+
+npm i -D nodemon
+
+dans le package.json mettre au niveau du script "start": "nodemon app.js"
+
+
+
+xG6hG0ZK0XCAbLfM
